@@ -5,3 +5,28 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayman-charaf/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.aymancharaf@gmail.com)
 [![Portfolio](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/a-y-m-a-n-c-h)
+
+
+## 📊 GitHub Analytics
+
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=a-y-m-a-n-c-h&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-y-m-a-n-c-h&layout=compact&theme=tokyonight&hide=html,css,javascript" />
+</p>
+
+
+### 🚀 About Me
+- 🎓 **M.Sc. Student** at Technical University of Munich (TUM) specializing in Computational Science & Engineering.
+- 🔬 **Ex-CERN Intern:** Ported CMS Patatrack standalone application from C++ to Julia; achieved **2x performance increase** on 128-core systems.
+- 🏎️ **Focus:** Optimizing high-throughput data pipelines, GPU acceleration (CUDA), and Scientific ML.
+- 🎹 **Off-duty:** Classical pianist and competitive programmer.
+
+### 🛠 Languages & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/cuda-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/julia-%239558B2.svg?style=for-the-badge&logo=julia&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
