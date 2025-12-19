@@ -7,17 +7,9 @@
 [![Portfolio](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/a-y-m-a-n-c-h)
 
 
-## 📊 GitHub Analytics
-
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=a-y-m-a-n-c-h&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-y-m-a-n-c-h&layout=compact&theme=tokyonight&hide=html,css,javascript" />
-</p>
-
-
 ### 🚀 About Me
 - 🎓 **M.Sc. Student** at Technical University of Munich (TUM) specializing in Computational Science & Engineering.
-- 🔬 **Ex-CERN Intern:** Ported CMS Patatrack standalone application from C++ to Julia; achieved **2x performance increase** on 128-core systems.
+- 🔬 **Ex-CERN Intern:** Ported the CMS Patatrack pixel reconstruction chain to Julia; achieved up to 2x single-threaded speedup in core modules like the Clusterizer and Vertexing.
 - 🏎️ **Focus:** Optimizing high-throughput data pipelines, GPU acceleration (CUDA), and Scientific ML.
 - 🎹 **Off-duty:** Classical pianist and competitive programmer.
 
