@@ -1,6 +1,6 @@
 # Hi, I'm Mohamad Ayman Charaf 👋 
 
-### HPC & Systems Engineer | M.Sc. @ TUM | Ex-CERN
+### Software Engineer | M.Sc. @ TUM | Ex-CERN
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayman-charaf/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.aymancharaf@gmail.com)
