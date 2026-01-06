@@ -9,7 +9,7 @@
 ### 🚀 About Me
 - 🎓 **M.Sc. Student** at Technical University of Munich (TUM) specializing in Computational Science & Engineering.
 - 🔬 **Ex-CERN Intern:** Ported the CMS Patatrack pixel reconstruction chain to Julia; achieved up to 2x single-threaded speedup in core modules like the Clusterizer and Vertexing.
-- 🏎️ **Focus:** Optimizing high-throughput data pipelines, GPU acceleration (CUDA), and Scientific ML.
+- 🏎️ **Experience:** Optimizing high-throughput data pipelines, GPU acceleration (CUDA), and Scientific ML.
 - 🎹 **Off-duty:** Classical pianist and competitive programmer.
 
 ### 🛠 Languages & Tools
